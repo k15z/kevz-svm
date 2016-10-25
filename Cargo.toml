@@ -1,0 +1,6 @@
+[package]
+name = "kevz-svm"
+version = "0.1.0"
+authors = ["Kevin Zhang <kevz@mit.edu>"]
+
+[dependencies]
