@@ -4,5 +4,4 @@ form of the soft-margin support vector machine. It's my first time working with
 Rust so apologies if the code isn't particularly idiomatic.
 
 Also, this code does not work with BLAS bindings yet - it uses for-loops for 
-matrix multiplication - so it's performance is terrible, but it's still a cool
-warm-up project for learning how Rust works.
+matrix multiplication - so it's performance is terrible.
